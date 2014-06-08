@@ -3,4 +3,3 @@ TestCase("GetRequest", {
 		assertFunction(tddjs.ajax.get);
 	}
 });
-
